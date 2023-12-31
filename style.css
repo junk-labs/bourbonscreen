@@ -1,10 +1,14 @@
+@font-face
+{
+  font-family: PixelMplus12 Bold;
+  src: url('https://cdn.leafscape.be/PixelMplus/PixelMplus12-Bold_web.woff2')
+    format("woff2");
+}
+
 body ｛
-  @font-face
-    {
-      font-family: PixelMplus12 Bold;
-      src: url('https://cdn.leafscape.be/PixelMplus/PixelMplus12-Bold_web.woff2')
-        format("woff2");
-    }
+  font-family: PixelMplus12 Bold;
   background-color: #000080;
   color: white;
 ｝
+
+
