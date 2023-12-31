@@ -10,7 +10,8 @@ body {
   background-color: #000080;
   color: white;
   margin: 40px;
-  line-height: 120%
+  line-height: 1.3em;
+  letter-spacing: 0.1em;
 }
 
 
